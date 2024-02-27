@@ -18,6 +18,14 @@ int main()
 	nLuas = 0,5 * nAlas * nTinggi;
 	cout << "Luasnya adalah= " << nLuas << endl;
 
+	int panjang, lebar, luas;
+	cout << "Masukan Panjangnya=";
+	cin >> panjang;
+	cout << "Masukan Lebarnya=";
+	cin >> lebar;
+	cout << "Masukan Luasnya=";
+	cin >> luas;
+
 
 	system("pause");
 }
